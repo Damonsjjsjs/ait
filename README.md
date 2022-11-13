@@ -25,4 +25,4 @@ canalId: ID do canal do Discord que será usado como canal de 'Instagram'.
 
 # 🏆 Créditos:
 
-**[Linn#0002](https://discord.gg/nayeon)** (Criador do código)
+**[Linn#0001](https://discord.gg/nayeon)** (Criador do código)
